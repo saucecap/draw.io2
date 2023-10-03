@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T09:32:20.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9QNrEGJYGZeoSHNgkHJp" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T09:33:34.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7Me5NryfqSTxkgkkfIog" version="22.0.1" type="github">
   <diagram name="Page-1" id="FLkdHJrf84SCdrSjRrXB">
     <mxGraphModel dx="1195" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,8 +86,14 @@
         <mxCell id="XQU894oBWTa-VkMPR4PN-44" value="Getting little to no customers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="710" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OiXxN9I4L3W8StU9rLeO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XQU894oBWTa-VkMPR4PN-46" target="XQU894oBWTa-VkMPR4PN-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XQU894oBWTa-VkMPR4PN-46" value="Starting with no budget" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="535" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OiXxN9I4L3W8StU9rLeO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XQU894oBWTa-VkMPR4PN-47" target="XQU894oBWTa-VkMPR4PN-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XQU894oBWTa-VkMPR4PN-47" value="Starting with little budget" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="655" y="580" width="80" height="80" as="geometry" />
@@ -95,8 +101,8 @@
         <mxCell id="XQU894oBWTa-VkMPR4PN-48" value="Starting with a lot of budget" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="420" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XQU894oBWTa-VkMPR4PN-59" value="Saving up first" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="710" width="80" height="80" as="geometry" />
+        <mxCell id="XQU894oBWTa-VkMPR4PN-59" value="Saving up first" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="600" y="730" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
